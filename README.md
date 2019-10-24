@@ -1,3 +1,3 @@
-# CODE-CLONING-CODE
-a C code to print it's source code
-...YO
+# Code Cloning Code
+A program which output its source code.
+Written in C
